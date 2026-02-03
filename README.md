@@ -100,9 +100,10 @@ print(results[['short_mavg', 'long_mavg', 'positions']].tail())
 3. **选股因子**：小市值 + ROE/ROA双重财务筛选，优选质优小盘股
 
 **回测表现：**
-- 回测区间：2012-01-01 至 2024-07-11
+- 回测区间：2015-01-05 至 2026-01-07
 - 初始资金：￥100,000
 - 调仓频率：每周一
+<img width="2109" height="677" alt="9e6f571f1d09b60a9f7864c7c465b415" src="https://github.com/user-attachments/assets/bb696958-2c4c-489c-8f01-345361a733cc" />
 
 ---
 
@@ -126,6 +127,7 @@ print(results[['short_mavg', 'long_mavg', 'positions']].tail())
 **回测表现：**
 - 回测区间：2005-01-01 至 2016-12-31
 - 累计收益：450.95%
+![Uploading image.png…]()
 
 ---
 
@@ -245,5 +247,6 @@ This project is licensed under the [MIT License](LICENSE).
 **⭐ If this helps you, please give it a Star!**
 
 </div>
+
 
 
