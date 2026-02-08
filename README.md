@@ -19,7 +19,7 @@
 
 ### 📖 项目简介
 
-Node-Strategy-Pro 是一个面向 A股市场 的量化交易策略开源项目，由 **节点量化 (Node Quant)** 开发维护。本项目提供多种经过验证的量化策略，已适配 **PTrade 交易终端**，可直接用于实盘交易或回测研究。
+Node-Strategy-Pro 是一个面向 A股市场 的量化交易策略开源项目，由 **朱开英** 开发维护。本项目提供多种经过验证的量化策略，已适配 **PTrade 交易终端**，可直接用于实盘交易或回测研究。
 
 ### ✨ 策略列表
 
@@ -210,7 +210,7 @@ Node-Strategy-Pro/
 
 ### 📖 Introduction
 
-Node-Strategy-Pro is an open-source quantitative trading strategy library for the **A-share (Chinese stock) market**, developed by **Node Quant**. This project provides multiple verified quantitative strategies, adapted for the **PTrade trading terminal**, ready for live trading or backtesting research.
+Node-Strategy-Pro is an open-source quantitative trading strategy library for the **A-share (Chinese stock) market**, developed by **zhukaiying**. This project provides multiple verified quantitative strategies, adapted for the **PTrade trading terminal**, ready for live trading or backtesting research.
 
 ### ✨ Strategy List
 
@@ -247,6 +247,7 @@ This project is licensed under the [MIT License](LICENSE).
 **⭐ If this helps you, please give it a Star!**
 
 </div>
+
 
 
 
