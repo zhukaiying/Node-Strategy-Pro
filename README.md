@@ -190,9 +190,9 @@ Node-Strategy-Pro/
 
 ## 👋 关于我
 
-- **作者**：**节点量化**佳佳
+- **作者**：**朱开英**
 - **邮箱**：[249859399@qq.com]
-- **公众号**：节点量化
+ 
 |   📞 联系方式 |
 |:------:|:----------:|
 微信：xiaojiulaoliu
@@ -247,6 +247,7 @@ This project is licensed under the [MIT License](LICENSE).
 **⭐ If this helps you, please give it a Star!**
 
 </div>
+
 
 
 
